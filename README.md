@@ -20,7 +20,7 @@ In order to use this application, you must specify your API_KEY in open-weather-
 
 ## Youtube video
 
-Here is a descriptive video in which I demonstrate a full user story:
+Here is a descriptive video in which I demonstrate a full user story: [weather app demo](https://youtu.be/S8LxQBtDwlQ)
 
 ## PS The ECMAScript 6 version of this project
 This project was completely rewritten in ES6 to take advantages of the new features supported by this version like:
@@ -29,4 +29,4 @@ This project was completely rewritten in ES6 to take advantages of the new featu
 * Using promises to handle asynchronous task(the openWeather API call)
 * Using classes to modularize the weather data
 * and much more
-Here is the link for the ES6 version: [weather app ES6] (https://github.com/abenamor9/weather-app)
+Here is the link for the ES6 version: [weather app ES6](https://github.com/abenamor9/weather-app)
