@@ -1,6 +1,6 @@
 ## About the project
 
-This project was made for educational purpose only in order to build an interactive web page using __ECMAScript 5__:
+This project was made for educational purpose only in order to build an interactive web page using __ECMAScript 5__. It is the course project of the [Accelerated JavaScript training](https://www.udemy.com/certificate/UC-XPNK5EAP/) online course.
 
 It is a web page that retrieves and display the temperature and weather description of the city entered as a parameter.
 
